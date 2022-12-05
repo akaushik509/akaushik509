@@ -22,6 +22,9 @@ At the age of 7 I got my first PC (windows 95) and then slowly and steadily I st
 - 🔭 I’m currently working on [Portfolio](https://akaushik509.github.io/)  
   
 
+- 🌱 I have practical knowledge of HTML, CSS, JavaScript, React, and next.js, and I also created websites with these tech stacks.  
+
+  
 - 🌱 I’m currently learning TypeScript and Redux  
   
 
